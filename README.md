@@ -27,7 +27,7 @@ Modified the dumped netspeeder code url and install command from [Googlecode](ht
   
   `xxx xxxx xx:xx:xx net_speeder`
   
-  or 
+   or
   
   `root xxx xxx x.x xxxxx~xxxx /usr/local/netspeeder/net_speeder venet0 ip` 
   
