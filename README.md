@@ -20,17 +20,17 @@ Modified the dumped Netspeeder Code URL and respective install command , because
   
 3. Result
   
-  type command
+    type command
   
-   `ps -A` or `ps -aux|grep netspeeder` 
+      `ps -A` or `ps -aux|grep netspeeder` 
   
-  you should see 'net_speeder' process
+    you should see 'net_speeder' process
   
-   `xxx xxxx xx:xx:xx net_speeder`
+      `xxx xxxx xx:xx:xx net_speeder`
   
-   or
+    or
   
-   `root xxx xxx x.x xxxxx~xxxx /usr/local/netspeeder/net_speeder venet0 ip` 
+      `root xxx xxx x.x xxxxx~xxxx /usr/local/netspeeder/net_speeder venet0 ip` 
   
 ## Maintain netspeeder running
   
