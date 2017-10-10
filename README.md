@@ -53,4 +53,4 @@ Netspeeder may shutdown sometimes, so we should use command 'crontab' to run a r
   
   6. Start crontab service
     
-   `service crond start' or 'service cron start`
+   `service crond start or service cron start`
