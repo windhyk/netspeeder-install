@@ -50,3 +50,7 @@ Netspeeder may shutdown sometimes, so we should use command 'crontab' to run a r
   
     save and exit the crontab edit
   5. Check crontab with 'crontab -l'
+  
+  6. Start crontab service
+    
+    'service crond start' or 'service cron start'
